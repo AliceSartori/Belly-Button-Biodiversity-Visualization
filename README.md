@@ -1,4 +1,4 @@
-# Javascript_dashboard
+# Javascript dashboard
 
 
 
