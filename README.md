@@ -2,4 +2,4 @@
 
 
 
-![Dashboard](https://github.com/AliceSartori/Javascript-challenge/blob/main/Screen%20Shot%202021-03-05%20at%205.25.42%20PM.png)
+![Dashboard](https://github.com/AliceSartori/Javascript_dashboard/blob/main/Screen%20Shot%202021-03-11%20at%205.50.16%20PM.png)
