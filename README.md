@@ -6,10 +6,10 @@ I created an interactive dashboard to visualize information from the Belly Butto
 ## Technologies
 
 Javascript:
-d3 
-Plotly 
+1. d3 
+2. Plotly 
 HTML & CSS
-Boostrap 
+1.Boostrap 
 
 ## Usage
 
