@@ -6,4 +6,4 @@
 
 You can run the dashboard here:
 
-![Dashboard](https://alicesartori.github.io/Javascript_dashboard/)
+https://alicesartori.github.io/Javascript_dashboard/
