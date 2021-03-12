@@ -8,7 +8,7 @@ I created an interactive dashboard to visualize information from the Belly Butto
 Javascript:
 1. d3 
 2. Plotly 
-3. 
+
 HTML & CSS:
 1.Boostrap 
 
