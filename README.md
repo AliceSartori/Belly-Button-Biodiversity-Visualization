@@ -7,5 +7,5 @@
 You can run the dashboard here:
 https://alicesartori.github.io/Javascript_dashboard/
 
-The dataset used to build this interactive dashboard:
+
 http://robdunnlab.com/projects/belly-button-biodiversity/
