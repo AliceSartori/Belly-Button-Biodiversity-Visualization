@@ -10,7 +10,7 @@ Javascript:
 2. Plotly 
 
 HTML & CSS:
-1.Boostrap 
+1. Boostrap 
 
 ## Usage
 
