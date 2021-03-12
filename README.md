@@ -14,8 +14,8 @@ HTML & CSS:
 
 ## Usage
 
-Run https://alicesartori.github.io/Javascript_dashboard/. 
-When accessing the page, select a sample ID number from the dropdown menu to see the visualizations of that specific sample belly-button bacteria.
+- Run https://alicesartori.github.io/Javascript_dashboard/. 
+- When accessing the page, select a sample ID number from the dropdown menu to see the visualizations of that specific sample belly-button bacteria.
 
 ## Development Process
 
