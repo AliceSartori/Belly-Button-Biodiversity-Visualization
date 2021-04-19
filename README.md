@@ -30,7 +30,7 @@ An image is below for reference for sample ID 940.
 
 
 You can run the dashboard here:
-https://alicesartori.github.io/Javascript_dashboard/
+https://alicesartori.github.io/Belly-Button-Biodiversity-Visualization/
 
 ## Dataset
 Direct link to the dataSet here:
